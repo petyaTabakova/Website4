@@ -1,0 +1,84 @@
+.image-profile{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin: auto;
+	margin-top:20px;
+	display: block;
+}
+body{
+	padding-bottom: 0px;
+	padding-top: 20px;
+	font-family: arial,sans-serif;
+	background:#FFDEAD ;
+	font-size: 16px;
+}
+strong,h2{
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 40px;
+}
+.container-main{
+	background:  #ffffff;
+	margin-top: 50px;
+	padding: 0 30 30 30px;
+}
+
+header{
+		min-height: 100px;
+      	overflow: auto; 
+      	color: black;
+      	background:#BC8F8F;
+      }
+
+header h1{
+	text-align: center;
+}
+
+.contact-lyst{
+	padding: 0;
+	margin:0;
+}
+
+.contact-list li{
+	list-style: none;
+	font-weight: bold;
+	line-height: 2.2em;
+	font-size: 20px;
+}
+#check {
+  /*transition: all linear 0.5s;
+  background-color: lightblue;*/
+  height: 100px;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.ng-hide {
+  height: 0;
+  width: 0;
+  background-color: transparent;
+  top:-200px;
+  left: 200px;
+}
+
+
+.media{
+	background:#DCDCDC;
+	padding-top: 10px;
+}
+.footer{
+	background:	#A9A9A9;
+	color: white;
+	text-align:center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+th{
+	background: #cec8b1;
+}
+white-space: pre; 
+
